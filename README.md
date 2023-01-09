@@ -1,5 +1,4 @@
 # Audentify
-This repository holds the files needed to run Audentify -- includes README, main python file, etc.
 
 Welcome to Audentify!
 
